@@ -1,6 +1,7 @@
 # My Power BI Dashboard
 
 In this project, I visualized a cupcake company data in the way that the end user is able to get the fastest responses to their questions.
+
 The report includes two pages:
 Executive summary page including revenue, profit, average sales, top 10 flavors, customer count which were analyzed by year, region, fulfillment type, and product type.
 Customer detail page including average order size, top 20 customers, top 5 bulk customers, birthday months which were analyzed by year, region, and order size.
