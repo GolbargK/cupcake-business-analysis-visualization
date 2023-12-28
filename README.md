@@ -4,9 +4,9 @@ In this project, I visualized a cupcake company data in the way that the end use
 
 The report includes two pages:
 
-1.Executive summary page including revenue, profit, average sales, top 10 flavors, customer count which were analyzed by year, region, fulfillment type, and product type.
+*Executive summary page including revenue, profit, average sales, top 10 flavors, customer count which were analyzed by year, region, fulfillment type, and product type.
 
-2.Customer detail page including average order size, top 20 customers, top 5 bulk customers, birthday months which were analyzed by year, region, and order size.
+*Customer detail page including average order size, top 20 customers, top 5 bulk customers, birthday months which were analyzed by year, region, and order size.
 
 Check out my interactive Power BI dashboard, you need to sign up for a Power BI free account if you don't have it already. https://app.powerbi.com/groups/me/dashboards/201ef6e6-38e2-4aed-b5d7-8ee294ee7a9a?redirectedFromSignup=1&experience=power-bi.
 
