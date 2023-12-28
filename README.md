@@ -1,4 +1,4 @@
-# Power BI Dashboard Visualization for a Cupcake Business
+# Power BI Dashboard for a Cupcake Business
 <div align="justify">
 In this project, I visualized a cupcake company data in the way that the end user is able to get the fastest responses to their questions. The report includes two pages:
 
