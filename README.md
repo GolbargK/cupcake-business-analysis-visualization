@@ -1,5 +1,5 @@
 # My Power BI Dashboard
-<p align="justify">
+<div align="justify">
 In this project, I visualized a cupcake company data in the way that the end user is able to get the fastest responses to their questions.
 
 The report includes two pages:
@@ -10,7 +10,7 @@ The report includes two pages:
 
 Check out my interactive Power BI dashboard, you need to sign up for a Power BI free account if you don't have it already. https://app.powerbi.com/groups/me/dashboards/201ef6e6-38e2-4aed-b5d7-8ee294ee7a9a?redirectedFromSignup=1&experience=power-bi.
 
-Below are two screenshots of the above report. </p>
+Below are two screenshots of the above report. </div>
 
 ![alt text](https://github.com/GolbargK/cupcake-business-analysis-visualization/blob/main/Capture.PNG)
 ![alt text](https://github.com/GolbargK/cupcake-business-analysis-visualization/blob/main/Capture2.PNG)
