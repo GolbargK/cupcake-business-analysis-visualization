@@ -1,6 +1,6 @@
 # Data Visualization for a Cupcake Business using Power BI
 <div align="justify">
-In this project, I visualized a cupcake company data in the way that the end user is able to get the fastest responses to their questions. The report includes two pages:
+In this project!, I visualized a cupcake company data in the way that the end user is able to get the fastest responses to their questions. The report includes two pages:
 
 
 * Executive summary page including revenue, profit, average sales, top 10 flavors, customer count which were analyzed by year, region, fulfillment type, and product type.
